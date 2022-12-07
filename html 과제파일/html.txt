@@ -1,0 +1,6 @@
+https://script.google.com/macros/s/AKfycbyXNFRftjTf8318MbH66EL9YUYd4Pxt98uX2dOnOjjXM6QxMZXe4vZ9ET9vMgkMpes/exec
+
+<form class="gform pure-form pure-form-stacked" method="POST" data-email="example@email.net"
+  action="아까 복사한 url을 여기에 붙혀놓으면 된다!">
+
+AKfycbyXNFRftjTf8318MbH66EL9YUYd4Pxt98uX2dOnOjjXM6QxMZXe4vZ9ET9vMgkMpes
